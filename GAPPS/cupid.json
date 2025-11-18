@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "ilert45557",
+			"oem": "Xiaomi",
+			"device": "cupid",
+			"filename": "MistOS-4.3-Rime-16.0-GAPPS-20251118-cupid-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/cupid/MistOS-4.3-Rime-16.0-GAPPS-20251118-cupid-OFFICIAL.zip/download",
+			"timestamp": 1763484993,
+			"md5": "565ca58ca569fc4e6b1c2f42bebf7a97",
+			"sha256": "ad89fe1c759820026f5db61f858662cdb6405e7de6de230132ec75d7d3c1aeef",
+			"size": 3129626783,
+			"version": "4.3-Rime",
+			"buildtype": "user",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/mymi12builds"
+		}
+	]
+}
